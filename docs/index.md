@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Documentation for the Tembé keyboards
 
 ## Layouts
